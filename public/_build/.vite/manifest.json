@@ -7,6 +7,15 @@
       "_browser-BHXLhbL5.js"
     ]
   },
+  "_BoxScanItem-hK5jiuOX.js": {
+    "file": "assets/BoxScanItem-hK5jiuOX.js",
+    "name": "BoxScanItem",
+    "imports": [
+      "_web-C45hwcaK.js",
+      "_kit-BcYE_9dI.js",
+      "_check-D947U_Ky.js"
+    ]
+  },
   "_Card-BJTdBaro.js": {
     "file": "assets/Card-BJTdBaro.js",
     "name": "Card",
@@ -14,8 +23,8 @@
       "_web-C45hwcaK.js"
     ]
   },
-  "_ExpiryDashboardView-CmD0ej86.js": {
-    "file": "assets/ExpiryDashboardView-CmD0ej86.js",
+  "_ExpiryDashboardView-DUC9L08i.js": {
+    "file": "assets/ExpiryDashboardView-DUC9L08i.js",
     "name": "ExpiryDashboardView",
     "imports": [
       "_web-C45hwcaK.js",
@@ -34,8 +43,8 @@
       "_web-C45hwcaK.js"
     ]
   },
-  "_ReceivingView-DgTynXbT.js": {
-    "file": "assets/ReceivingView-DgTynXbT.js",
+  "_ReceivingView-BOOCzQlC.js": {
+    "file": "assets/ReceivingView-BOOCzQlC.js",
     "name": "ReceivingView",
     "imports": [
       "_web-C45hwcaK.js",
@@ -44,7 +53,7 @@
       "_commitInputs-DWt83XC_.js",
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js",
-      "_inventoryStore-mXAEE5tG.js",
+      "_inventoryStore-CyjBYBgL.js",
       "_store-B0FdftrR.js",
       "_search-xr5HEMiD.js",
       "_circle-check-BFtcTGA4.js",
@@ -72,8 +81,8 @@
     "file": "assets/_commonjsHelpers-Cpj98o6Y.js",
     "name": "_commonjsHelpers"
   },
-  "_activeOffersService-C1uOHjqP.js": {
-    "file": "assets/activeOffersService-C1uOHjqP.js",
+  "_activeOffersService-DyMqLFfK.js": {
+    "file": "assets/activeOffersService-DyMqLFfK.js",
     "name": "activeOffersService",
     "imports": [
       "_web-C45hwcaK.js",
@@ -167,8 +176,8 @@
       "_web-C45hwcaK.js"
     ]
   },
-  "_inventoryStore-mXAEE5tG.js": {
-    "file": "assets/inventoryStore-mXAEE5tG.js",
+  "_inventoryStore-CyjBYBgL.js": {
+    "file": "assets/inventoryStore-CyjBYBgL.js",
     "name": "inventoryStore",
     "imports": [
       "_web-C45hwcaK.js",
@@ -176,8 +185,8 @@
       "_utils-BniL3oX8.js"
     ]
   },
-  "_invoiceStore-D-Mmiv-q.js": {
-    "file": "assets/invoiceStore-D-Mmiv-q.js",
+  "_invoiceStore-DghQ5Xqp.js": {
+    "file": "assets/invoiceStore-DghQ5Xqp.js",
     "name": "invoiceStore",
     "imports": [
       "_store-B0FdftrR.js",
@@ -186,16 +195,16 @@
       "_utils-BniL3oX8.js"
     ]
   },
-  "_invoiceStyledFormStore-nNEEUhzb.js": {
-    "file": "assets/invoiceStyledFormStore-nNEEUhzb.js",
+  "_invoiceStyledFormStore--jCFS-4m.js": {
+    "file": "assets/invoiceStyledFormStore--jCFS-4m.js",
     "name": "invoiceStyledFormStore",
     "imports": [
       "_preload-helper-ug3pwPZ1.js",
       "_web-C45hwcaK.js",
       "_utils-BniL3oX8.js",
-      "_activeOffersService-C1uOHjqP.js",
+      "_activeOffersService-DyMqLFfK.js",
       "_auth-BsoKf_e4.js",
-      "_tariffConfigService-CCciIo9c.js"
+      "_tariffConfigService-BfqPLmSu.js"
     ],
     "dynamicImports": [
       "src/services/apiAdapter.ts"
@@ -275,13 +284,13 @@
       "_web-C45hwcaK.js"
     ]
   },
-  "_posReceiptPdf-2yQ7iKpm.js": {
-    "file": "assets/posReceiptPdf-2yQ7iKpm.js",
+  "_posReceiptPdf-DFwYR2bP.js": {
+    "file": "assets/posReceiptPdf-DFwYR2bP.js",
     "name": "posReceiptPdf",
     "imports": [
       "_web-C45hwcaK.js",
       "_kit-BcYE_9dI.js",
-      "_tariffConfigService-CCciIo9c.js",
+      "_tariffConfigService-BfqPLmSu.js",
       "_jspdf.es.min-fClK7Czv.js"
     ]
   },
@@ -292,6 +301,14 @@
   "_printer-Cp55hCj_.js": {
     "file": "assets/printer-Cp55hCj_.js",
     "name": "printer",
+    "imports": [
+      "_kit-BcYE_9dI.js",
+      "_web-C45hwcaK.js"
+    ]
+  },
+  "_route-DfMTQHxi.js": {
+    "file": "assets/route-DfMTQHxi.js",
+    "name": "route",
     "imports": [
       "_kit-BcYE_9dI.js",
       "_web-C45hwcaK.js"
@@ -343,8 +360,8 @@
       "_web-C45hwcaK.js"
     ]
   },
-  "_tariffConfigService-CCciIo9c.js": {
-    "file": "assets/tariffConfigService-CCciIo9c.js",
+  "_tariffConfigService-BfqPLmSu.js": {
+    "file": "assets/tariffConfigService-BfqPLmSu.js",
     "name": "tariffConfigService",
     "imports": [
       "_web-C45hwcaK.js",
@@ -420,7 +437,7 @@
     "isDynamicEntry": true
   },
   "src/routes/admin.tsx?pick=default&pick=$css": {
-    "file": "assets/admin-f6L6Eqys.js",
+    "file": "assets/admin-DFYUrrd8.js",
     "name": "admin",
     "src": "src/routes/admin.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -438,7 +455,7 @@
     ]
   },
   "src/routes/bultos.tsx?pick=default&pick=$css": {
-    "file": "assets/bultos-CcDJn7f4.js",
+    "file": "assets/bultos-BwiJ6nMh.js",
     "name": "bultos",
     "src": "src/routes/bultos.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -488,13 +505,13 @@
     ]
   },
   "src/routes/inventory/expiry.tsx?pick=default&pick=$css": {
-    "file": "assets/expiry-D2cyhgc7.js",
+    "file": "assets/expiry-BKMldIU6.js",
     "name": "expiry",
     "src": "src/routes/inventory/expiry.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_ExpiryDashboardView-CmD0ej86.js",
+      "_ExpiryDashboardView-DUC9L08i.js",
       "_web-C45hwcaK.js",
       "_PageHeader-wT4HqhNT.js",
       "_kit-BcYE_9dI.js",
@@ -506,7 +523,7 @@
     ]
   },
   "src/routes/inventory/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-DPp7h0xM.js",
+    "file": "assets/index-Cxjt3HpQ.js",
     "name": "index",
     "src": "src/routes/inventory/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -519,10 +536,10 @@
       "_commitInputs-DWt83XC_.js",
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js",
-      "_inventoryStore-mXAEE5tG.js",
-      "_ReceivingView-DgTynXbT.js",
+      "_inventoryStore-CyjBYBgL.js",
+      "_ReceivingView-BOOCzQlC.js",
       "_boxes-CVR-Uxxh.js",
-      "_ExpiryDashboardView-CmD0ej86.js",
+      "_ExpiryDashboardView-DUC9L08i.js",
       "_trash-2-CkbkDfQ_.js",
       "_plus-BmBMA7ZB.js",
       "_dollar-sign-DRyZ1Ze4.js",
@@ -537,13 +554,13 @@
     ]
   },
   "src/routes/inventory/receiving.tsx?pick=default&pick=$css": {
-    "file": "assets/receiving-BKSNKihi.js",
+    "file": "assets/receiving-WXrDxIJx.js",
     "name": "receiving",
     "src": "src/routes/inventory/receiving.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_ReceivingView-DgTynXbT.js",
+      "_ReceivingView-BOOCzQlC.js",
       "_web-C45hwcaK.js",
       "_PageHeader-wT4HqhNT.js",
       "_kit-BcYE_9dI.js",
@@ -551,7 +568,7 @@
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js",
       "_auth-BsoKf_e4.js",
-      "_inventoryStore-mXAEE5tG.js",
+      "_inventoryStore-CyjBYBgL.js",
       "_store-B0FdftrR.js",
       "_search-xr5HEMiD.js",
       "_circle-check-BFtcTGA4.js",
@@ -561,15 +578,15 @@
     ]
   },
   "src/routes/invoices/[id].tsx?pick=default&pick=$css": {
-    "file": "assets/_id_-Bph1a9mZ.js",
+    "file": "assets/_id_-ChIlVfgi.js",
     "name": "_id_",
     "src": "src/routes/invoices/[id].tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_web-C45hwcaK.js",
-      "_invoiceStore-D-Mmiv-q.js",
-      "_invoiceStyledFormStore-nNEEUhzb.js",
+      "_invoiceStore-DghQ5Xqp.js",
+      "_invoiceStyledFormStore--jCFS-4m.js",
       "_kit-BcYE_9dI.js",
       "_opsApi-B2HH5MF1.js",
       "_BoxLabel-BrhagNG_.js",
@@ -577,8 +594,8 @@
       "_boxLabelPdf-enPRriP2.js",
       "_jspdf.es.min-fClK7Czv.js",
       "_browser-BHXLhbL5.js",
-      "_posReceiptPdf-2yQ7iKpm.js",
-      "_tariffConfigService-CCciIo9c.js",
+      "_posReceiptPdf-DFwYR2bP.js",
+      "_tariffConfigService-BfqPLmSu.js",
       "_routing-gAGQqlWQ.js",
       "_file-text-BBEDQDok.js",
       "_map-pin-BgnhBKwV.js",
@@ -592,20 +609,20 @@
       "_utils-BniL3oX8.js",
       "_auth-BsoKf_e4.js",
       "_preload-helper-ug3pwPZ1.js",
-      "_activeOffersService-C1uOHjqP.js",
+      "_activeOffersService-DyMqLFfK.js",
       "__commonjsHelpers-Cpj98o6Y.js"
     ]
   },
   "src/routes/invoices/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-C0lFS66f.js",
+    "file": "assets/index-BIJSn3_F.js",
     "name": "index",
     "src": "src/routes/invoices/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_web-C45hwcaK.js",
-      "_invoiceStore-D-Mmiv-q.js",
-      "_invoiceStyledFormStore-nNEEUhzb.js",
+      "_invoiceStore-DghQ5Xqp.js",
+      "_invoiceStyledFormStore--jCFS-4m.js",
       "_kit-BcYE_9dI.js",
       "_routing-gAGQqlWQ.js",
       "_plus-BmBMA7ZB.js",
@@ -621,12 +638,12 @@
       "_utils-BniL3oX8.js",
       "_auth-BsoKf_e4.js",
       "_preload-helper-ug3pwPZ1.js",
-      "_activeOffersService-C1uOHjqP.js",
-      "_tariffConfigService-CCciIo9c.js"
+      "_activeOffersService-DyMqLFfK.js",
+      "_tariffConfigService-BfqPLmSu.js"
     ]
   },
   "src/routes/invoices/new.tsx?pick=default&pick=$css": {
-    "file": "assets/new-uwa20qDH.js",
+    "file": "assets/new-DGGfjfGc.js",
     "name": "new",
     "src": "src/routes/invoices/new.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -636,9 +653,9 @@
       "_utils-BniL3oX8.js",
       "_kit-BcYE_9dI.js",
       "_commitInputs-DWt83XC_.js",
-      "_invoiceStyledFormStore-nNEEUhzb.js",
-      "_invoiceStore-D-Mmiv-q.js",
-      "_tariffConfigService-CCciIo9c.js",
+      "_invoiceStyledFormStore--jCFS-4m.js",
+      "_invoiceStore-DghQ5Xqp.js",
+      "_tariffConfigService-BfqPLmSu.js",
       "_package-BOBWh-Hb.js",
       "_triangle-alert-CtFIFAdM.js",
       "_truck-DZmXwMW7.js",
@@ -657,13 +674,13 @@
       "_trash-2-CkbkDfQ_.js",
       "_auth-BsoKf_e4.js",
       "_preload-helper-ug3pwPZ1.js",
-      "_activeOffersService-C1uOHjqP.js",
+      "_activeOffersService-DyMqLFfK.js",
       "src/services/apiAdapter.ts",
       "_store-B0FdftrR.js"
     ]
   },
   "src/routes/invoices/offers.tsx?pick=default&pick=$css": {
-    "file": "assets/offers-C8ktt2nD.js",
+    "file": "assets/offers-_cbaqUmP.js",
     "name": "offers",
     "src": "src/routes/invoices/offers.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -673,7 +690,7 @@
       "_kit-BcYE_9dI.js",
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js",
-      "_activeOffersService-C1uOHjqP.js",
+      "_activeOffersService-DyMqLFfK.js",
       "_layers-D9YhRWrV.js",
       "_circle-check-BFtcTGA4.js",
       "_pencil-CgjXk95r.js",
@@ -683,7 +700,7 @@
     ]
   },
   "src/routes/invoices/pos.tsx?pick=default&pick=$css": {
-    "file": "assets/pos-BrlBfDil.js",
+    "file": "assets/pos-B2NZRIlz.js",
     "name": "pos",
     "src": "src/routes/invoices/pos.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -693,12 +710,12 @@
       "_PageHeader-wT4HqhNT.js",
       "_kit-BcYE_9dI.js",
       "_commitInputs-DWt83XC_.js",
-      "_posReceiptPdf-2yQ7iKpm.js",
-      "_tariffConfigService-CCciIo9c.js",
+      "_posReceiptPdf-DFwYR2bP.js",
+      "_tariffConfigService-BfqPLmSu.js",
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js",
-      "_inventoryStore-mXAEE5tG.js",
-      "_invoiceStore-D-Mmiv-q.js",
+      "_inventoryStore-CyjBYBgL.js",
+      "_invoiceStore-DghQ5Xqp.js",
       "_routing-gAGQqlWQ.js",
       "_search-xr5HEMiD.js",
       "_circle-check-BFtcTGA4.js",
@@ -711,7 +728,7 @@
     ]
   },
   "src/routes/loans.tsx?pick=default&pick=$css": {
-    "file": "assets/loans-BCNlYMcU.js",
+    "file": "assets/loans-DzFq3P5q.js",
     "name": "loans",
     "src": "src/routes/loans.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -770,7 +787,7 @@
     ]
   },
   "src/routes/ops/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-CZ_f3tRp.js",
+    "file": "assets/index-DTFr3CwW.js",
     "name": "index",
     "src": "src/routes/ops/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -786,6 +803,7 @@
       "_boxes-CVR-Uxxh.js",
       "_map-pin-BgnhBKwV.js",
       "_package-plus-CBygPxZF.js",
+      "_route-DfMTQHxi.js",
       "_search-xr5HEMiD.js",
       "_truck-DZmXwMW7.js",
       "_components-7cDBGBRy.js",
@@ -819,7 +837,7 @@
     ]
   },
   "src/routes/ops/locations.tsx?pick=default&pick=$css": {
-    "file": "assets/locations-BivnsALn.js",
+    "file": "assets/locations-I3poiD82.js",
     "name": "locations",
     "src": "src/routes/ops/locations.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -837,7 +855,7 @@
     ]
   },
   "src/routes/ops/manifest.tsx?pick=default&pick=$css": {
-    "file": "assets/manifest-DD46wtKZ.js",
+    "file": "assets/manifest-DoyOBnVv.js",
     "name": "manifest",
     "src": "src/routes/ops/manifest.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -858,7 +876,7 @@
     ]
   },
   "src/routes/ops/manifests.tsx?pick=default&pick=$css": {
-    "file": "assets/manifests-iSRP7-2-.js",
+    "file": "assets/manifests-DBi2Q9du.js",
     "name": "manifests",
     "src": "src/routes/ops/manifests.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -868,14 +886,16 @@
       "_PageHeader-wT4HqhNT.js",
       "_kit-BcYE_9dI.js",
       "src/services/apiAdapter.ts",
+      "_BoxScanItem-hK5jiuOX.js",
       "_map-pin-BgnhBKwV.js",
       "_chevron-right-DwJjJFkh.js",
       "_utils-BniL3oX8.js",
-      "_auth-BsoKf_e4.js"
+      "_auth-BsoKf_e4.js",
+      "_check-D947U_Ky.js"
     ]
   },
   "src/routes/ops/route.tsx?pick=default&pick=$css": {
-    "file": "assets/route-C2IOaiJl.js",
+    "file": "assets/route-9tiES6wu.js",
     "name": "route",
     "src": "src/routes/ops/route.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -887,7 +907,10 @@
       "_kit-BcYE_9dI.js",
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js",
+      "_BoxScanItem-hK5jiuOX.js",
+      "_route-DfMTQHxi.js",
       "_check-D947U_Ky.js",
+      "_chevron-right-DwJjJFkh.js",
       "_map-pin-BgnhBKwV.js",
       "_truck-DZmXwMW7.js",
       "__commonjsHelpers-Cpj98o6Y.js",
@@ -931,7 +954,7 @@
     ]
   },
   "src/routes/tariffs/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-B5Oku06o.js",
+    "file": "assets/index-cIgSwqzI.js",
     "name": "index",
     "src": "src/routes/tariffs/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -942,7 +965,7 @@
       "_kit-BcYE_9dI.js",
       "_PageHeader-wT4HqhNT.js",
       "_commitInputs-DWt83XC_.js",
-      "_tariffConfigService-CCciIo9c.js",
+      "_tariffConfigService-BfqPLmSu.js",
       "_utils-BniL3oX8.js",
       "_plus-BmBMA7ZB.js",
       "_circle-check-BFtcTGA4.js",
@@ -954,7 +977,7 @@
     ]
   },
   "src/services/apiAdapter.ts": {
-    "file": "assets/apiAdapter-CbnOoOJk.js",
+    "file": "assets/apiAdapter-B__H2r-X.js",
     "name": "apiAdapter",
     "src": "src/services/apiAdapter.ts",
     "isDynamicEntry": true,
@@ -965,7 +988,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-C3NHJ3sK.js",
+    "file": "assets/client-B5vcmVBj.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
@@ -975,7 +998,7 @@
       "_auth-BsoKf_e4.js",
       "_routing-gAGQqlWQ.js",
       "_components-7cDBGBRy.js",
-      "_tariffConfigService-CCciIo9c.js",
+      "_tariffConfigService-BfqPLmSu.js",
       "_Spinner-BgQOQdoq.js",
       "src/services/apiAdapter.ts",
       "_utils-BniL3oX8.js"
@@ -1007,7 +1030,7 @@
       "src/routes/tariffs/index.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-BPLJy4sb.css"
+      "assets/client-Cs17EYnJ.css"
     ]
   }
 }
