@@ -1,0 +1,1 @@
+import{I as e}from"./kit-Bqm94pDV.js";import{b as o,j as r}from"./web-DkDXB28R.js";var l=[["line",{x1:"12",x2:"12",y1:"2",y2:"22",key:"7eqyqh"}],["path",{d:"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6",key:"1b0p4s"}]],n=a=>o(e,r(a,{iconNode:l,name:"dollar-sign"})),d=n;export{d};
