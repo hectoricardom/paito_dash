@@ -614,7 +614,7 @@
     ]
   },
   "src/routes/invoices/[id].tsx?pick=default&pick=$css": {
-    "file": "assets/_id_-DNeyJkNe.js",
+    "file": "assets/_id_-CXWo2gYU.js",
     "name": "_id_",
     "src": "src/routes/invoices/[id].tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -1030,7 +1030,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-DuVfFbFl.js",
+    "file": "assets/client-BGKRniBA.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
