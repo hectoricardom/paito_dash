@@ -1,1 +1,0 @@
-import{I as a}from"./kit-Bqm94pDV.js";import{b as c,j as e}from"./web-DkDXB28R.js";var r=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 6v6l4 2",key:"mmk7yg"}]],m=o=>c(a,e(o,{iconNode:r,name:"clock"})),k=m;export{k as c};

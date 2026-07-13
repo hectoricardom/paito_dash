@@ -1,0 +1,1 @@
+import{h as t,f as n,g as r,u as e}from"./auth-CsZAnSFl.js";const u={state:{get profile(){return e()},get user(){return e()},get stores(){return[]}},get currentUser(){return e()},getBusinessId(){return r()},getBusinessIds(){return[r()].filter(Boolean)},isAdmin(){return n()},can(s){return t(s)},signOut(){typeof window<"u"&&(window.location.href="/login")}};export{u as a};
